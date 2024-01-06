@@ -1,0 +1,5 @@
+ToDo:
+1. Add documentation
+2. Add code for arduino
+3. Make a photo of complete device
+4. add schematic PDF
