@@ -17,10 +17,10 @@
 ## Box enclosure
 ![](sch/enclosure.png)
 ## Main Board
-![](sch/power_backup_main_image.png)
+![](sch/img/power_backup_main_image.png)
 ## Main Board TOP layer
-![](sch/power_backup_main_top.png)
+![](sch/img/power_backup_main_top.png)
 ## Main Board BOTTOM layer
-![](sch/power_backup_main_bottom.png)
+![](sch/img/power_backup_main_bottom.png)
 ## Main Board schematic
-![](sch/power_backup_main_sch.png)
+![](sch/img/power_backup_main_sch.png)

@@ -13791,16 +13791,16 @@ NS Package M08A</description>
 <part name="R3" library="rcl" deviceset="R-EU_" device="M0805"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="M0805"/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="M0805" value="560"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="M0805" value="100k"/>
 <part name="U$1" library="relay_hfd2" deviceset="HFD2/003" device=""/>
 <part name="T2" library="transistor" deviceset="BC847" device=""/>
 <part name="T3" library="transistor" deviceset="BC847" device=""/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="M0805" value="560"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="M0805"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
@@ -13809,14 +13809,14 @@ NS Package M08A</description>
 <part name="P+2" library="supply1" deviceset="V+" device=""/>
 <part name="P+3" library="supply1" deviceset="V+" device=""/>
 <part name="IC2" library="allegro-2" deviceset="ACS712-LC" device=""/>
-<part name="R14" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R15" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R14" library="rcl" deviceset="R-EU_" device="M0805" value="100k"/>
+<part name="R15" library="rcl" deviceset="R-EU_" device="M0805" value="15k"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0805"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0805"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="1n"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="R16" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R17" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R16" library="rcl" deviceset="R-EU_" device="M0805" value="100k"/>
+<part name="R17" library="rcl" deviceset="R-EU_" device="M0805" value="15k"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="ARDUINO1" library="arduinopromini" deviceset="ARDUINO_PRO_MINI" device=""/>
