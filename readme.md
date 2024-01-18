@@ -15,7 +15,7 @@
 * Output bistable relay (for energy saving)
 
 ## Box enclosure
-![](sch/img/device.png)
+![](sch/img/device.jpg)
 ## Main Board
 ![](sch/img/power_backup_main_image.png)
 ## Main Board TOP layer
