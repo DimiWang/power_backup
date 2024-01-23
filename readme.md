@@ -1,4 +1,5 @@
 # Power backup automation for 12V battery.
+![](sch/img/BCS.drawio.png)
 
 ## Features:
 * Fits on DIN rail.
